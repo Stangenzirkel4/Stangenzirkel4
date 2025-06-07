@@ -68,6 +68,12 @@
 
 ---
 
+## 🎮 Хобби
+
+С другими моими проектами можно ознакомится на [Thingiverse](https://www.thingiverse.com/stangenzirkel4/designs).
+
+---
+
 ## 📫 Контакты
 
 * **Email:** Stangenzirkel4@yandex.ru
