@@ -18,7 +18,7 @@
 
 ![Rosneft](https://github.com/user-attachments/assets/12c642d7-1dad-43a5-a6e7-24dc42d0f21f)
 
-* **Описание:** Данный робот был создан для участия в хакатоне для программистов-робототехников от Роснефти. Назначение робота - строить 3D-модели металлических емкостей и выявлять дефекты поверхности. Робот может передвигаться За основу была взята статья ["Development of a Wheeled Wall-Climbing Robot with a Shape-Adaptive Magnetic Adhesion Mechanism"](https://ieeexplore.ieee.org/document/9196919) от авторов [Haruhiko Eto](https://ieeexplore.ieee.org/author/37087237473) и [H. Harry Asada](https://ieeexplore.ieee.org/author/37279023100)
+* **Описание:** Данный робот был создан для участия в хакатоне для программистов-робототехников от Роснефти. Назначение робота - строить 3D-модели металлических емкостей и выявлять дефекты поверхности. Робот может передвигаться по вертикальным металлическим поверхностям сложной формы. За основу была взята статья ["Development of a Wheeled Wall-Climbing Robot with a Shape-Adaptive Magnetic Adhesion Mechanism"](https://ieeexplore.ieee.org/document/9196919) от авторов [Haruhiko Eto](https://ieeexplore.ieee.org/author/37087237473) и [H. Harry Asada](https://ieeexplore.ieee.org/author/37279023100)
 * **Моя роль в проекте:** Я занимался всем, что связано с проектированием, выбором комплектующих и сборкой. Изготавливал детали на FDM и SLA принтерах.
 * **Использованное ПО:** КОМПАС-3D, SolidWorks, UltiMaker Cura, CHITUBOX Basic.
 * **Ссылки:** правила хакатона ограничивают распространение файлов, но защиту нашей команды в финале вы можете найти [здесь](https://vk.com/wall-42205388_4181)
